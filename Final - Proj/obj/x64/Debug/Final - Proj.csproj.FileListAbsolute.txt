@@ -1,0 +1,19 @@
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\bin\x64\Debug\team.mdb
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\bin\x64\Debug\teamDataSet.cs
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\bin\x64\Debug\teamDataSet.Designer.cs
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\bin\x64\Debug\teamDataSet.xsc
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\bin\x64\Debug\teamDataSet.xsd
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\bin\x64\Debug\teamDataSet.xss
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\bin\x64\Debug\Final - Proj.exe.config
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\bin\x64\Debug\Final - Proj.exe
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\bin\x64\Debug\Final - Proj.pdb
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\obj\x64\Debug\Final - Proj.csproj.AssemblyReference.cache
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\obj\x64\Debug\Final___Proj.Form1.resources
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\obj\x64\Debug\Final___Proj.Form2.resources
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\obj\x64\Debug\Final___Proj.Form3.resources
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\obj\x64\Debug\Final___Proj.Properties.Resources.resources
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\obj\x64\Debug\Final - Proj.csproj.GenerateResource.cache
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\obj\x64\Debug\Final - Proj.csproj.CoreCompileInputs.cache
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\obj\x64\Debug\Final - Proj.exe
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\obj\x64\Debug\Final - Proj.pdb
+C:\Users\fatem\source\repos\Final - Proj\Final - Proj\obj\x64\Debug\Final - Proj.exe.config
