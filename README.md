@@ -1,6 +1,6 @@
 # Football Team Management System (WinForms)
 
-## Overview
+*Overview*
 
 This project is a simple Windows Forms application developed in C# for managing and viewing football team player information.
 
@@ -13,6 +13,7 @@ Basic CRUD operations
 Database connectivity
 
 Windows Forms user interface
+----
 
 **Database**
 
